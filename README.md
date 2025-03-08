@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
-    <img src="" alt="Next Blog Logo" width="90" height="90">
+  <a href="https://github.com/sasmithx/Next-Blog/blob/main/assets/NextBlog.png">
+    <img src="https://github.com/sasmithx/Next-Blog/blob/main/assets/NextBlog.png" alt="Next Blog Logo" >
   </a>
   <h2 align="center">Next Blog</h2>
 
