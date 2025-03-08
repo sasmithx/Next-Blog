@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sasmithx/Next-Blog/blob/main/assets/NextBlog.png">
-    <img src="https://github.com/sasmithx/Next-Blog/blob/main/assets/NextBlog.png" alt="Next Blog Logo" >
+    <img src="https://github.com/sasmithx/Next-Blog/blob/main/assets/NextBlog.png" alt="Next Blog Logo" style="border-radius: 40px;" >
   </a>
   <h2 align="center">Next Blog</h2>
 
