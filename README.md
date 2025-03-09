@@ -29,7 +29,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#environment-variables">Environment Variables</a></li>
+        <li><a href="#run">Run Project</a></li>
       </ul>
     </li>
     <li>
@@ -58,11 +58,13 @@
 ### **📌 Built With**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React.js](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![React Router](https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=react-router&logoColor=CA4245)](https://reactrouter.com/)
 [![PNPM](https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=yellow)](https://pnpm.io/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192)](https://www.postgresql.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
 [![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
 [![Kinde Auth](https://img.shields.io/badge/Kinde_Auth-000000?style=for-the-badge&logo=kinde&logoColor=white)](https://kinde.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
@@ -77,9 +79,9 @@ Follow these steps to set up and run **NextBlog** locally.
 
 ### **🔹 Prerequisites**  
 Ensure you have the following installed:
-- **Node.js** (LTS version recommended)
+- **Node.js** (v22.13.0)
 - **pnpm** (Package Manager)
-- **PostgreSQL** (Database)
+- **PostgreSQL**
 
 ### **🔹 Installation**  
 
@@ -90,8 +92,18 @@ https://github.com/sasmithx/Next-Blog.git
 
 #### **2️⃣ Run Project**  
 ```sh
+cd next-blog-app
+```
+
+```sh
 pnpm run dev
 ```
+
+#### **3️⃣ Deployment**
+
+Next Blog is live and deployed on Vercel. It’s a modern, scalable application built with cutting-edge technologies to provide a fast and responsive user experience.
+
+Explore the live demo here: [Next Blog](https://next-blog-cyan-kappa.vercel.app/)
 
 ## **📌 License**  
 
